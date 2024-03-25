@@ -1,11 +1,25 @@
-## Bem-vindo(a) ao perfil do Pedro_Souz@. 😁
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Pedro Souza
+</br>
+</br>
+Bem-vindo(a) ao perfil do Pedro_Souz@. 😁
+</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PedroSouza09&color=blue" alt="Profile views" /> </p>
+
 
  <div>
    <a href="https://github.com/PedroSouza09">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroSouza09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroSouza09&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-    
+
+ <!--
+- 📚 Atualmente estou estudando: 
+- 📺 Gosto muito de jogar e assistir animes e séries.
+-->
+
+### 🖥️  Ferramentas e Tecnologias que eu utilizo:
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -14,7 +28,7 @@
  
 <br>
  
-### Minhas redes sociais abaixo!
+### Contact:
  
 <div> 
   <a href="https://www.linkedin.com/in/fsouza-pedro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
