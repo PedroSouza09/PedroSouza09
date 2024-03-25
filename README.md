@@ -18,7 +18,8 @@ Bem-vindo(a) ao perfil do Pedro_Souz@. 😁
 - 📺 Gosto muito de jogar e assistir animes e séries.
 -->
 
-### 🖥️  Ferramentas e Tecnologias que eu utilizo:
+<!-- Ferramentas e -->
+### 🖥️ Tecnologias que eu utilizo:
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
