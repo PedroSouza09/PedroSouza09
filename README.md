@@ -18,6 +18,14 @@ Bem-vindo(a) ao perfil do Pedro_Souz@. 😁
 - 📺 Gosto muito de jogar e assistir animes e séries.
 -->
 
+### About Me:
+
+1. **Cursando Engenharia da Computação na Fametro.**
+2. **Experiência inicial em projetos de front-end com HTML, CSS e JavaScript.**
+3. **Aprendendo Python.**
+4. **Focado em aprender novas tecnologias e melhorar minhas habilidades de programação.**
+5. **Participação em projetos e eventos que ajudam a expandir meu conhecimento na área de tecnologia.**
+
 <!-- Ferramentas e -->
 ### 🖥️ Tecnologias que eu utilizo:
 
