@@ -20,7 +20,7 @@ Bem-vindo(a) ao perfil do Pedro_Souz@. 😁
 
 ### About Me:
 
-1. **Cursando Engenharia da Computação na Fametro.**
+1. **Cursando Engenharia da Computação na USF.**
 2. **Experiência inicial em projetos de front-end com HTML, CSS e JavaScript.**
 3. **Aprendendo Python.**
 4. **Focado em aprender novas tecnologias e melhorar minhas habilidades de programação.**
